@@ -43,5 +43,5 @@ sudoer_separate_specs_cleanup: False
 sudoer_rewrite_sudoers_file: True
 sudoer_remove_unauthorized_specs: False
 sudoer_backup: True
-sudoer_path: /etc/sudeoers
+sudoer_path: /etc/sudoers
 sudoer_d_path: /etc/sudoers.d
